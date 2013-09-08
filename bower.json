@@ -1,7 +1,7 @@
 {
   "name": "bower-lodash-angular",
   "version": "1.3.1",
-  "main": "",
+  "main": "lodash.custom.js",
   "ignore": [
     "**/.*",
     "node_modules",
