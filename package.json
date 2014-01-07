@@ -1,12 +1,12 @@
 {
   "name": "bower-lodash-angular",
-  "version": "0.0.2",
+  "version": "2.4.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/gocardless-client/bower-lodash-angular.git"
   },
   "devDependencies": {
-    "lodash-cli": "~2.2.0"
+    "lodash-cli": "2.4.1"
   },
   "engines": {
     "node": "0.10.0"
